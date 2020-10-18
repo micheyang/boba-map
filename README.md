@@ -1,3 +1,4 @@
 # boba-map
-An app for tracking bubble tea drinks (HackGT7 project)
+An app for tracking bubble tea drinks created using Flutter.
+(HackGT7 project)
 
